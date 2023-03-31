@@ -1,0 +1,15 @@
+.button {
+  background-color: transparent;
+  color: #7b8794;
+  font-size: 23px;
+  margin-right: 25px;
+  border: 0px;
+  outline: none;
+  margin-bottom: 10px;
+}
+
+.active-button {
+  text-decoration: underline;
+  text-decoration-color: #2563eb;
+  color: #2563eb;
+}
